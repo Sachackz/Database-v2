@@ -1,0 +1,30 @@
+[[package]]
+name = "tkinter-managed-frame"
+version = "1.0.3"
+description = "Adds a Tkinter Frame subclass that offers simple update functionality"
+category = "main"
+optional = false
+python-versions = ">=3.3"
+
+[[package]]
+name = "tkinter-page"
+version = "0.0.5"
+description = "tkinter components extention"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "222ba71110809e09709e6b7c35a706398c7ec2ef89146c59821d74b7639961c6"
+
+[metadata.files]
+tkinter-managed-frame = [
+    {file = "Tkinter Managed Frame-1.0.3.tar.gz", hash = "sha256:e52cdb193baa7255346a771846a9eee5ca88789f449ed38647a1bf1dfbf8ba6f"},
+    {file = "Tkinter_Managed_Frame-1.0.3-py3-none-any.whl", hash = "sha256:84b3c5880fbef98ff7f3f0f0606b6510d7c50448b250420b51769cf7e58fbb2a"},
+]
+tkinter-page = [
+    {file = "tkinter_page-0.0.5-py3-none-any.whl", hash = "sha256:bead34e80573e5a5ae8bf05f0f8cfc1b9daa8b31401d71544044be76a60bcae5"},
+    {file = "tkinter_page-0.0.5.tar.gz", hash = "sha256:c6fbb1600f2f38870a19f22439a33a813e666219e38a6e92eff6cc4c631254e9"},
+]

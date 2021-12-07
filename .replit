@@ -1,0 +1,6 @@
+language = "python3"
+run = """
+python3 main.py
+#python3 CREATE.py
+#python3 INSERT.py
+"""
